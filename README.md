@@ -1,4 +1,6 @@
 # Manipulate Sphinx config to keep old Read the Docs' behavior
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsphinx-build-compatibility.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsphinx-build-compatibility?ref=badge_shield)
+
 
 > [!NOTE]  
 > 
@@ -78,3 +80,7 @@ please open a new issue in this repository.
 
 - [Issue tracking this deprecation work](https://github.com/readthedocs/addons/issues/72)
 - [Announcement of these changes in Sphinx's furo theme](https://github.com/pradyunsg/furo/discussions/785)
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fsphinx-build-compatibility.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fsphinx-build-compatibility?ref=badge_large)
